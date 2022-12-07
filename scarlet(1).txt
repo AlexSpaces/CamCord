@@ -1,13 +1,13 @@
 {
 	"META": {
-		"repoName": "Scarlet Test Repo",
-		"repoIcon": "https://usescarlet.com/img/icon.png"
+		"repoName": "CamCord",
+		"repoIcon": ""
 	},
 	"CamCord": [{
 		"name": "CamCord",
 		"version": "157",
 		"down": "https://github.com/AlexSpaces/CamCord/releases/download/157/Camcord157.ipa",
-		"category": "Tweaked Apps",
+		"category": "CamCord",
 		"description": "A bunch of shit that I pirated for fun",
 		"bundleID": "com.hammerandchisel.discord",
 		"appstore": "com.hammerandchisel.discord",
