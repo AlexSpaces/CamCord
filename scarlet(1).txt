@@ -1,0 +1,20 @@
+{
+	"META": {
+		"repoName": "Scarlet Test Repo",
+		"repoIcon": "https://usescarlet.com/img/icon.png"
+	},
+	"CamCord": [{
+		"name": "CamCord",
+		"version": "157",
+		"down": "h",
+		"category": "Tweaked Apps",
+		"description": "A bunch of shit that I pirated for fun",
+		"bundleID": "com.hammerandchisel.discord",
+		"appstore": "com.hammerandchisel.discord",
+		"contact": {
+			"web": "https://repo.twickd.com",
+			"twitter": "https://twitter.com/twickdrepo"
+		}
+
+	}]
+}
