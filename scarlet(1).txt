@@ -1,7 +1,7 @@
 {
 	"META": {
 		"repoName": "CamCord",
-		"repoIcon": ""
+		"repoIcon": "https://raw.githubusercontent.com/AlexSpaces/CamCord/main/568271F4-C7FB-4F05-A98B-2FC0ABAC7BC0.jpeg"
 	},
 	"CamCord": [{
 		"name": "CamCord",
