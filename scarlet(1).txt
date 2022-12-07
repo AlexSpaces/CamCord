@@ -6,7 +6,7 @@
 	"CamCord": [{
 		"name": "CamCord",
 		"version": "157",
-		"down": "h",
+		"down": "https://github.com/AlexSpaces/CamCord/releases/download/157/Camcord157.ipa",
 		"category": "Tweaked Apps",
 		"description": "A bunch of shit that I pirated for fun",
 		"bundleID": "com.hammerandchisel.discord",
